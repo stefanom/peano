@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/stefanom/slicer/geom"
+	"github.com/stefanom/peano/geom"
 	"io"
 	"io/ioutil"
 	"strconv"

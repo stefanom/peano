@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/stefanom/slicer/geom"
-	"github.com/stefanom/slicer/stl"
+	"github.com/stefanom/peano/geom"
+	"github.com/stefanom/peano/stl"
 	"os"
 )
 
